@@ -8,7 +8,7 @@
 - You can get files then manage them and sync files anytime you want.
 - You can customize visibility Family files of every Department if you want, such as name, location, feature, characteristic...
 
-<img src="https://github.com/kanechan25/5D-BIM-Database-Management/blob/main/Demo%20Form.jpg">
+<img src="https://github.com/kanechan25/5D-BIM-Database-Management/blob/main/demoformStr.jpg">
 
 - Hoping it support you a bit in your work!
 ---
