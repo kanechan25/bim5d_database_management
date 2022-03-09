@@ -1,4 +1,4 @@
-## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - BIM Technician - Developer 
+## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  BIM Technologist - Web Developer 
 # 5D-BIM-Database-management
 - This is a simple tool that helps you manage family file systems (Revit or even every type of files).
 - This VBA Macro contains 6 contents about 6 Departments in Construction.
@@ -24,8 +24,8 @@
 ---
 
 ### 📫 Contact me via:
-- kanechan.civilengineer@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/kanechan2593/)
+- kt.itengineer@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/khoatran2593/)
 - [Facebook](https://www.facebook.com/khoa2425/)
 - [Reading for funny](https://ngoatv.blogspot.com/)
-### © 2021 kanechan25
+### © 2022 kanechan25
