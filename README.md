@@ -18,7 +18,7 @@ Then, I calculate the cost estimate of that building.
 ---
 <h3>This repo is BIM5D Database management: </h3>
 
-- This is a simple tool that helps you manage family file systems (Revit or even every type of files).
+- This is a simple tool that helps you manage family file systems (Revit or even any type of files).
 - This VBScript Macro contains 6 contents about 6 Departments in Construction.
 - My workflow will be shown below:
 <img src="https://github.com/kanechan25/5D-BIM-Database-Management/blob/main/workflow.PNG">
