@@ -8,9 +8,15 @@ Then, I calculate the cost estimate of that building.
 <h4>The application includes 3 main part: </h4>
 <strong>
 	<ul>
-	<li>1. bim5d software: Core, this part calculates all elements of the building, contains algorithm, rules, calculation</li>
-	<li>2. bim5d add-in: Add-in attaches to Autodesk Software, supports throughout the building modeling process</li>
-	<li>3. bim5d database management: arranges, backup, saves all components database of BIM technologist</li>
+		<li><a href="https://github.com/kanechan25/bim5d_software" target="blank">
+			1. bim5d software: Core, this part calculates all elements of the building, contains algorithm, rules, calculation
+		</a></li>
+	
+		<li><a href="https://github.com/kanechan25/bim5d_addin" target="blank">
+			2. bim5d add-in: Add-in attaches to Autodesk Software, supports throughout the building modeling process
+		</a></li>
+		
+		<li>[3. bim5d database management: arranges, backup, saves all components database of BIM technologist](https://github.com/kanechan25/bim5d_database_management)</li>
 	</ul>
 </strong>
 &nbsp;
