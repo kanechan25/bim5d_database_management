@@ -7,17 +7,11 @@ Then, I calculate the cost estimate of that building.
 - It's written by Revit API, C# (OOP, winforms), SQL, VBScript.
 <h4>The application includes 3 main part: </h4>
 <strong>
-	<ul>
-		<li><a href="https://github.com/kanechan25/bim5d_software" target="blank">
-			1. bim5d software: Core, this part calculates all elements of the building, contains algorithm, rules, calculation
-		</a></li>
-	
-		<li><a href="https://github.com/kanechan25/bim5d_addin" target="blank">
-			2. bim5d add-in: Add-in attaches to Autodesk Software, supports throughout the building modeling process
-		</a></li>
-		
-		<li>[3. bim5d database management: arranges, backup, saves all components database of BIM technologist](https://github.com/kanechan25/bim5d_database_management)</li>
-	</ul>
+<ul>
+<li>1. bim5d software: Core, this part calculates all elements of the building, contains algorithm, rules, calculation (https://github.com/kanechan25/bim5d_software)</li>
+<li>2. bim5d add-in: Add-in attaches to Autodesk Software, supports throughout the building modeling process (https://github.com/kanechan25/bim5d_addin)</li>
+<li>3. bim5d database management: arranges, backup, saves all components database of BIM technologist (https://github.com/kanechan25/bim5d_database_management)</li>
+</ul>
 </strong>
 &nbsp;
 
